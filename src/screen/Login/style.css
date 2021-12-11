@@ -1,0 +1,9 @@
+.body{
+    background-color: #7a23cc;
+    display: flex;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
