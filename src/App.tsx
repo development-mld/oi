@@ -1,7 +1,5 @@
 import React from 'react';
 import routes from './config/routes';
-import Home from './screen/Home';
-import Login from './screen/Login';
 import {useRoutes} from "react-router-dom";
 import LazyLoadRoute from './config/routes/LazyLoadRoute';
 import ProtectedRoute from './config/routes/ProtectedRoute';
